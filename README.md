@@ -54,3 +54,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/nazary001/nazary001/blob/output/snake.svg" alt="Snake animation" />
+
+###
