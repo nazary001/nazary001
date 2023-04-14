@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.ibb.co/6t39g7t/My-card.jpg"  />
+  <img height="200" src="https://i.ibb.co/6t39g7t/My-card.jpg"  />
 </div>
 
 ###
 
-<p align="center">Hello! I am Nazar, full stack developer from Ukraine.</p>
+<h1 align="center">Hello! I am Nazar, full stack developer from Ukraine.</h1>
 
 ###
 
